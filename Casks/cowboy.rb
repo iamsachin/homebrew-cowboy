@@ -1,8 +1,8 @@
 cask "cowboy" do
-  version "3.1.12"
-  sha256 "d8f666c2c9c29401792f850d8256a86de8d24f82197a7ee73cf328ea97eb6705"
+  version "3.1.13"
+  sha256 "06dc2aff92e3c84c22e3f65f8660befde7e87f5b2b6aef922b86ded144a6a27b"
 
-  url "https://github.com/iamsachin/cowboy/releases/download/v3.1.12/Cowboy_3.1.12_aarch64.dmg"
+  url "https://github.com/iamsachin/cowboy/releases/download/v3.1.13/Cowboy_3.1.13_aarch64.dmg"
   name "Cowboy"
   desc "Track and analyze AI coding agent activity across all your projects"
   homepage "https://github.com/iamsachin/cowboy"
